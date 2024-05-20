@@ -4,7 +4,7 @@
 Ce dépôt contient l'ISO pour W11 CLIENT LTSC EVAL x64FRE fr-fr. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
 
 ## Téléchargement
-Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`W11_CLIENT_LTSC_EVAL_x64FRE_fr-fr`](https://www.microsoft.com/fr-fr/evalcenter/download-windows-11-enterprise) pour le télécharger.
+Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`W11_CLIENT_LTSC_EVAL_x64FRE_fr-fr`](https://go.microsoft.com/fwlink/p/?LinkID=2206317&clcid=0x40c&culture=fr-fr&country=FR) pour le télécharger.
 
 ## Utilisation
 L'ISO est fourni tel quel pour faciliter l'installation de Windows 11. Vous pouvez l'utiliser pour créer une clé USB bootable ou pour démarrer une machine virtuelle.
