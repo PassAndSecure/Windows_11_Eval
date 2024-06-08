@@ -21,3 +21,13 @@ Nous sommes une communauté bienveillante et ouverte à toute contribution. Si v
 Bien que nous ne fournissions pas de support officiel, vous pouvez ouvrir un problème (issue) dans ce dépôt si vous rencontrez des difficultés avec l'ISO. La communauté pourrait être en mesure de vous aider.
 
 Merci de votre intérêt pour Windows 11 et pour votre participation à la communauté !
+
+         _ (`-.     ('-.       .-')      .-')             ('-.          .-') _   _ .-') _           .-')       ('-.                             _  .-')      ('-.                                          
+        ( (OO  )   ( OO ).-.  ( OO ).   ( OO ).          ( OO ).-.     ( OO ) ) ( (  OO) )         ( OO ).   _(  OO)                           ( \( -O )   _(  OO)                                         
+        _.`     \   / . --. / (_)---\_) (_)---\_)         / . --. / ,--./ ,--,'   \     .'_        (_)---\_) (,------.    .-----.   ,--. ,--.    ,------.  (,------.                                        
+        (__...--''   | \-.  \  /    _ |  /    _ |          | \-.  \  |   \ |  |\   ,`'--..._)       /    _ |   |  .---'   '  .--./   |  | |  |    |   /`. '  |  .---'                                        
+        |  /  | | .-'-'  |  | \  :` `.  \  :` `.        .-'-'  |  | |    \|  | )  |  |  \  '       \  :` `.   |  |       |  |('-.   |  | | .-')  |  /  | |  |  |                                            
+        |  |_.' |  \| |_.'  |  '..`''.)  '..`''.)        \| |_.'  | |  .     |/   |  |   ' |        '..`''.) (|  '--.   /_) |OO  )  |  |_|( OO ) |  |_.' | (|  '--.                                         
+        |  .___.'   |  .-.  | .-._)   \ .-._)   \         |  .-.  | |  |\    |    |  |   / :       .-._)   \  |  .--'   ||  |`-'|   |  | | `-' / |  .  '.'  |  .--'                                         
+        |  |        |  | |  | \       / \       /         |  | |  | |  | \   |    |  '--'  /       \       /  |  `---. (_'  '--'\  ('  '-'(_.-'  |  |\  \   |  `---.                                        
+        `--'        `--' `--'  `-----'   `-----'          `--' `--' `--'  `--'    `-------'         `-----'   `------'    `-----'    `-----'     `--' '--'  `------'                                        
