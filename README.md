@@ -1,7 +1,9 @@
 # W11_CLIENT_LTSC_EVAL_x64FRE_fr-fr ISO
 
 ## À propos
-Ce dépôt contient l'ISO pour W11 CLIENT LTSC EVAL x64FRE fr-fr. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
+Ce dépôt contient l'ISO pour W11 CLIENT LTSC EVAL x64FRE fr-fr. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Windows.
+
+Pour plus d'informations et d'autres outils de sécurité, visitez notre site web [PassAndSecure](https://passandsecure.fr).
 
 ## Téléchargement
 Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`W11_CLIENT_LTSC_EVAL_x64FRE_fr-fr`](https://go.microsoft.com/fwlink/p/?LinkID=2206317&clcid=0x40c&culture=fr-fr&country=FR) pour le télécharger.
