@@ -22,7 +22,7 @@ Bien que nous ne fournissions pas de support officiel, vous pouvez ouvrir un pro
 
 Merci de votre intérêt pour Windows 11 et pour votre participation à la communauté !
 
-<!------ _ (`-.     ('-.       .-')      .-')             ('-.          .-') _   _ .-') _           .-')       ('-.                             _  .-')      ('-.                                          
+<!-------_ (`-.     ('-.       .-')      .-')             ('-.          .-') _   _ .-') _           .-')       ('-.                             _  .-')      ('-.                                          
         ( (OO  )   ( OO ).-.  ( OO ).   ( OO ).          ( OO ).-.     ( OO ) ) ( (  OO) )         ( OO ).   _(  OO)                           ( \( -O )   _(  OO)                                         
         _.`     \   / . --. / (_)---\_) (_)---\_)         / . --. / ,--./ ,--,'   \     .'_        (_)---\_) (,------.    .-----.   ,--. ,--.    ,------.  (,------.                                        
         (__...--''   | \-.  \  /    _ |  /    _ |          | \-.  \  |   \ |  |\   ,`'--..._)       /    _ |   |  .---'   '  .--./   |  | |  |    |   /`. '  |  .---'                                        
